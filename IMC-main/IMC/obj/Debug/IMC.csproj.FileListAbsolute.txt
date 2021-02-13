@@ -1,0 +1,14 @@
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\obj\Debug\IMC.csprojAssemblyReference.cache
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\obj\Debug\IMC.IMC.resources
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\obj\Debug\IMC.pdb
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\obj\Debug\IMC.info.resources
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\bin\Debug\hsb-DE\IMC.resources.dll
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\obj\Debug\IMC.info.hsb-DE.resources
+C:\Users\DarkCat\Desktop\Tareas\Programación\IMC\IMC\obj\Debug\hsb-DE\IMC.resources.dll
